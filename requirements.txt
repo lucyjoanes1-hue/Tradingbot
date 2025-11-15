@@ -1,0 +1,13 @@
+numpy
+pandas
+requests
+PyYAML
+websocket-client
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+ta
+hmmlearn
+joblib
+optuna

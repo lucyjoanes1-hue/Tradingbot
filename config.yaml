@@ -1,0 +1,13 @@
+app:
+  api_token: "WdV5odCzVAYkWTY"
+  app_id: 1089
+  env: "DEMO"
+  trade_cooldown: 30
+  min_stake: 1
+  max_daily_loss: 0.1
+
+symbols:
+  - "EURUSD"
+  - "GBPUSD"
+  - "XAUUSD"
+  - "R_75"
